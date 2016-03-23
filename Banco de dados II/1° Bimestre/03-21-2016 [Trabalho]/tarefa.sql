@@ -58,7 +58,7 @@ ALTER TABLE ESTUDANTE ADD CONSTRAINT FK_IDPESSOA
  
  --3
  
--- [ Pessoa  minímo 4 registros ]
+-- [ Pessoa  minÃ­mo 4 registros ]
 DESC PESSOA;
 
   INSERT INTO PESSOA ( IDPESSOA, NOME, ENDERECO ) VALUES ( 0, 'Jose Ricardo'              , 'rua 10'  );
@@ -84,7 +84,7 @@ DESC PESSOA;
 
 SELECT * FROM REPUBLICA;
 
---  FONEPESSOA[ Mínimo 5 registros, sendo 1 telefone para cada pessoa e algumas pessoas com mais de um telefone ]
+--  FONEPESSOA[ MÃ­nimo 5 registros, sendo 1 telefone para cada pessoa e algumas pessoas com mais de um telefone ]
 DESC FONEPESSOA;
   INSERT INTO FONEPESSOA ( IDPESSOA, DDD, PREFIXO, NUMERO ) VALUES (1, 43, 1234 , 4321 );
   INSERT INTO FONEPESSOA ( IDPESSOA, DDD, PREFIXO, NUMERO ) VALUES (1, 21, 4321 , 1234 );
@@ -111,7 +111,7 @@ DESC FONEPESSOA;
   
   SELECT * FROM FONEPESSOA;
   
- --ESTUDANTE 	Estudante – um registro para cada pessoa, para os estudantes moram em casa, o campo idRep será null.
+ --ESTUDANTE 	Estudante â€“ um registro para cada pessoa, para os estudantes moram em casa, o campo idRep serÃ¡ null.
  DESC ESTUDANTE;
  
   INSERT INTO ESTUDANTE ( IDESTUDANTE, EMAIL, IDPESSOA, IDREP ) VALUES ( 500, 'jose@hotmail.com'      , 0 , 100 );
@@ -132,4 +132,17 @@ SELECT * FROM REPUBLICA;
 
 --4
 
+SELECT R.NOME, COUNT(E.IDESTUDANTE) QTD FROM REPUBLICA R, ESTUDANTE E
+WHERE R.IDREP = E.IDREP
+GROUP BY NOME;
 
+SELECT IDPESSOA,NOME,ENDERECO FROM PESSOA
+WHERE UPPER(NOME) LIKE '%zan%';
+
+SELECT E.IDESTUDANTE,E.EMAIL, P.NOME,P.ENDERECO FROM ESTUDANTE E, PESSOA P
+WHERE P.IDPESSOA = E.IDPESSOA AND E.IDREP IS NULL
+ORDER BY P.NOME;
+
+SELECT P.NOME, F.PREFIXO,F.DDD,F.NUMERO FROM PESSOA P, FONEPESSOA F
+WHERE P.IDPESSOA = F.IDPESSOA
+ORDER BY P.NOME;
