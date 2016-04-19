@@ -1,0 +1,16 @@
+-- lista o nome de todos os países e cidades que possuem departamentos localizados.
+
+-- lista o nome de todos os países e cidades que possuem departamentos localizados.
+-- Caso o país não tenha nenhum departamento localizado, deseja-se exibi-lo mesmo assim.
+
+
+-- Buscar o primeiro e o último nome e o salário do empregado com o
+-- maior salário
+
+
+-- Buscar o primeiro e o último nome dos empregados e o código do
+-- departamento cujo nome do departamento comece com a letra 'A'.
+
+
+-- Buscar o código do departamento, o primeiro e o último nome e o
+-- salário do empregado com o maior salário do seu departamento.
