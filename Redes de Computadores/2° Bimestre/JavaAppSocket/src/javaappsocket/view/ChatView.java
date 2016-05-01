@@ -12,11 +12,11 @@ public class ChatView extends javax.swing.JFrame
     public ChatView()
     {
         initComponents();
-        setProprietyOfFrame();
+        setPropertyOfFrame();
         setComponentsOnFrame();
     }
     
-    private void setProprietyOfFrame() 
+    private void setPropertyOfFrame() 
     {   
         /* Desabilita a mudança de resolução da janela */
         this.setResizable(false);
