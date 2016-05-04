@@ -1,0 +1,64 @@
+SELECT * FROM DEPARTMENTS;
+SELECT * FROM EMPLOYEES;
+SELECT * FROM EMPLOYEES WHERE DEPARTMENT_ID = NULL;
+
+SELECT * FROM JOBS;
+SELECT * FROM JOB_HISTORY;
+--1) Mostre a quantidade de empregados cadastrados.
+  SELECT COUNT(*) FROM  EMPLOYEES;
+
+--2) Liste a matricula, nome, sobrenome e nome do departamento dos empregados.
+--Caso o empregado não esteja alocado em nenhum departamento, mostre-o também.
+  SELECT E.EMPLOYEE_ID, E.FIRST_NAME, E.LAST_NAME, D.DEPARTMENT_NAME 
+  FROM EMPLOYEES E LEFT OUTER JOIN DEPARTMENTS D ON E.DEPARTMENT_ID = D.DEPARTMENT_ID;
+  
+--3) Liste todos os empregados cadastrados, mostre o nome do departamento, 
+--matricula, nome, sobrenome, cargo, matricula, nome e sobrenome do gerente. 
+--Mostre também os empregados que não possuem gerente. Ordenar por nome do departamento.
+  SELECT E.EMPLOYEE_ID AS ID, E.FIRST_NAME AS PRIMEIRO_NOME, E.LAST_NAME AS SOBRENOME,
+  D.DEPARTMENT_NAME AS DEPARTAMENTO, M.FIRST_NAME AS GERENTE_PRIMEIRO_NOME, 
+  M.LAST_NAME AS GERENTE_SOBRENOME, J.JOB_TITLE AS CARGO
+  FROM EMPLOYEES E
+  INNER JOIN DEPARTMENTS D ON (D.DEPARTMENT_ID = E.DEPARTMENT_ID)
+  INNER JOIN JOBS J ON (J.JOB_ID = E.JOB_ID)
+  LEFT OUTER JOIN EMPLOYEES M ON (E.MANAGER_ID = M.EMPLOYEE_ID)
+  ORDER BY D.DEPARTMENT_NAME;
+  
+--4) Liste todos os departamentos cadastrados, mostre também os empregados, se houver.
+  SELECT D.DEPARTMENT_NAME, E.FIRST_NAME 
+  FROM EMPLOYEES E 
+  JOIN DEPARTMENTS D ON E.DEPARTMENT_ID = D.DEPARTMENT_ID 
+  ORDER BY D.DEPARTMENT_NAME ASC;
+  
+--5) Liste os funcionários que trabalham no cargo que tem o menor salario cadastrada na tabela Jobs. 
+ -- SELECT D.MIN_SALARY, E.FIRST_NAME FROM EMPLOYEES E JOIN JOBS D ON E.JOB_ID = D.JOB_ID; 
+ SELECT * FROM EMPLOYEES 
+ WHERE JOB_ID = ( SELECT JOB_ID  FROM JOBS WHERE MIN_SALARY = (SELECT MIN(MIN_SALARY) FROM JOBS) );
+ 
+--6) Liste o funcionário mais antigo da empresa. 
+ SELECT * FROM EMPLOYEES where HIRE_DATE = (SELECT MIN(HIRE_DATE) FROM EMPLOYEES);
+ 
+--7) Liste os funcionários que trocaram de cargo duas vezes. 
+ SELECT E.EMPLOYEE_ID, E.FIRST_NAME, E.LAST_NAME 
+ FROM EMPLOYEES E, JOB_HISTORY J 
+ WHERE E.EMPLOYEE_ID = J.EMPLOYEE_ID 
+ GROUP BY E.EMPLOYEE_ID, E.FIRST_NAME, E.LAST_NAME 
+ HAVING COUNT(J.EMPLOYEE_ID) = 2;
+
+--8) Liste os gerentes que possuem 6 ou mais empregados. 
+    SELECT E.EMPLOYEE_ID, E.FIRST_NAME, E.LAST_NAME FROM EMPLOYEES E, EMPLOYEES EE WHERE EE.MANAGER_ID = E.EMPLOYEE_ID
+GROUP BY E.EMPLOYEE_ID, E.FIRST_NAME, E.LAST_NAME HAVING COUNT(EE.MANAGER_ID) > 5;
+  
+  
+--9) Liste o gerente mais novo de empresa que possui 6 ou mais empregados. 
+SELECT E.EMPLOYEE_ID, E.FIRST_NAME, E.LAST_NAME
+FROM EMPLOYEES E, EMPLOYEES EE WHERE EE.MANAGER_ID = E.EMPLOYEE_ID 
+AND E.HIRE_DATE = (SELECT MAX(HIRE_DATE) 
+FROM EMPLOYEES) GROUP BY E.EMPLOYEE_ID, E.FIRST_NAME, E.LAST_NAME HAVING COUNT(EE.MANAGER_ID) > 5;
+
+--10) Aumente em 2% o salario do gerente mais velho de empresa que possui 6 ou mais empregados.
+UPDATE EMPLOYEES
+SET SALARY = SALARY * 1.02 WHERE EMPLOYEE_ID = (SELECT E.EMPLOYEE_ID  FROM EMPLOYEES E, EMPLOYEES EE WHERE EE.MANAGER_ID = E.EMPLOYEE_ID
+        AND E.HIRE_DATE = (SELECT MIN(HIRE_DATE) 
+        FROM EMPLOYEES) GROUP BY E.EMPLOYEE_ID
+        HAVING COUNT(EE.MANAGER_ID) > 5);
