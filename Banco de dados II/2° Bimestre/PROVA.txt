@@ -1,0 +1,18 @@
+Prova - 06/06/2016
+
+Conteúdo:
+- Transação
+- Trigger
+- Sequence
+- Chave primária
+- Chave estrangeira (constraint de reference)
+- Diagrama Entidade Relacionamento (DER) - Modelo conceitual
+- Comandos sql:   
+  - join e outer join
+  - subquery (sub consulta)
+  - funções de agregação
+    - avg, sum, max, min e count
+  - group by e having 
+  - operadores de conjunto
+    - union, intersect e minus.
+  - insert, update e delete
