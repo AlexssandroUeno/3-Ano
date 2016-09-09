@@ -89,8 +89,8 @@ public class Tela extends javax.swing.JFrame
     {
         conta(global_matrix);
 
-        for (int i = 0; i < sltn.length; i++)
-        {
+        for (int i = 0; i < sltn.length-1; i++)
+        {   
             txResultadosX[i].setText("" + converterDoubleQuatroDecimais(sltn[i]));
         }
     }
@@ -144,7 +144,7 @@ public class Tela extends javax.swing.JFrame
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        paneMatrizU.setBorder(javax.swing.BorderFactory.createTitledBorder("Matriz - U"));
+        paneMatrizU.setBorder(javax.swing.BorderFactory.createTitledBorder("Matriz - L"));
         paneMatrizU.setLayout(new java.awt.GridLayout(1, 0));
 
         labLinha.setText("Linha:");
@@ -173,7 +173,7 @@ public class Tela extends javax.swing.JFrame
             .addGap(0, 110, Short.MAX_VALUE)
         );
 
-        paneMatrizL.setBorder(javax.swing.BorderFactory.createTitledBorder("Matriz - L"));
+        paneMatrizL.setBorder(javax.swing.BorderFactory.createTitledBorder("Matriz - U"));
 
         javax.swing.GroupLayout paneMatrizLLayout = new javax.swing.GroupLayout(paneMatrizL);
         paneMatrizL.setLayout(paneMatrizLLayout);
@@ -379,7 +379,7 @@ public class Tela extends javax.swing.JFrame
             }
         }
 
-        sltn = new double[global_matrix.length];
+        sltn = new double[global_matrix[0].length];
         buffer = global_matrix[1].length;
         n = global_matrix.length;
     }
