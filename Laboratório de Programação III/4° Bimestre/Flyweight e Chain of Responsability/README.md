@@ -9,8 +9,12 @@ Utilizem a tabela em anexo da tarefa. O design do formulário é livre, contanto
 > [user.mwb](https://github.com/Unifil/3-Ano/blob/master/Laborat%C3%B3rio%20de%20Programa%C3%A7%C3%A3o%20III/4%C2%B0%20Bimestre/Flyweight%20e%20Chain%20of%20Responsability/user.mwb?raw=true)
 
 
+<<<<<<< HEAD
 
  OU  
+=======
+### OU 
+>>>>>>> origin/master
 ### Bano -> SQL
 
 ```SQL
