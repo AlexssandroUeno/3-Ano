@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=x
+comment0.target=long\ calc(int)
+comment1.params=vetor
+comment1.target=int\ somaDoisTres(int[])
+comment1.text=\n\ Ordena\ o\ vetor\ passado\ no\ par\u00E2metro\ e\ depois\ soma\ o\ segundo\ e\ o\ terceiro\ maior\ do\ vetor\n
+comment2.params=vetor
+comment2.target=int\ somatorio(int[])
+comment3.params=s\ c
+comment3.target=java.lang.String\ getFirstAparicao(java.lang.String,\ char)
+comment4.params=s\ c
+comment4.target=java.lang.String\ getLastAparicao(java.lang.String,\ char)
+comment5.params=s\ c
+comment5.target=java.lang.String\ getBetweenAparicao(java.lang.String,\ char)
+comment6.params=p
+comment6.target=java.lang.String\ findPal(java.lang.String)
+comment7.params=p
+comment7.target=java.lang.String\ findPalEmptySpaces(java.lang.String)
+comment8.params=arr
+comment8.target=void\ findPalInArr(java.lang.String[])
+comment9.params=
+comment9.target=void\ findPalTenthousand()
+numComments=10
