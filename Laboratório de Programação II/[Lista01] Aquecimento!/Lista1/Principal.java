@@ -1,4 +1,10 @@
 import java.util.Arrays;
+
+/**
+ * Classe Principal.java
+ *
+ * @author Gabriel Praxedes, José Ricardo 
+ */
 public class Principal
 {
 
@@ -93,10 +99,10 @@ public class Principal
     
     public static void findPalTenthousand() 
     {
-        int TenThousand = 10001;
+        int tenThousand = 10001;
         int i = 2;
         String resp = "";
-        while(i < TenThousand)
+        while(i < tenThousand)
         {
             String ans = findPal(String.valueOf(i));
             int tamanhoDaRespostaDoPal = 17;
