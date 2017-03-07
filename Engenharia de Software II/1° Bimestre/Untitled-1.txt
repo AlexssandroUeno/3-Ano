@@ -1,0 +1,7 @@
+Usuário entra no site, faz o cadastro de usuário onde ele poderá mais à frente escolher áreas de 
+interesses e atualizar seu perfil sendo de usuário ou/e professor. 
+
+
+Quando um usuário com papel de aluno quer ver algum curso ele simplesmente irá na tela de gerencia de curso, onde contém cursos de sua preferencia definida previamente no perfil do usuário. Ao selecionar o curso, o usuário terá acesso à mais informações do curso, como por exemplo, definições do curso.
+
+Quando um usuário com papel de professor quer dar aulas, entra na tela de gerencia de curso, onde poderá administrar seu curso, como adicionando descrições e informações de horário, preço e plano de ensino.

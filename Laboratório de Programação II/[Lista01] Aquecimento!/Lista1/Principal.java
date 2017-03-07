@@ -112,6 +112,22 @@ public class Principal
             }
             i += 2;
         }
+    }    
+    
+    public static void somaUm(int[]a)
+    {
+        a =new int[]{1};
     }
     
+    public static void print()
+    {
+        int [] valor = null;
+        somaUm(valor);
+        System.out.println(valor[0]);
+        
+    }
+    public static void main(String[]args)
+    {
+        
+    }
 }
