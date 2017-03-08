@@ -1,6 +1,5 @@
-/Cálculo Numérico/4° Bimestre/Mat/nbproject/private/
-.ctxt
-.bluej
-.class
-.DS_Store
-/_MACOSX/
+*.ctxt
+*.bluej
+*.class
+*.DS_Store
+_MACOSX/
