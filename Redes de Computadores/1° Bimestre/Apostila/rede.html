@@ -1,0 +1,416 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Camada de rede · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.2">
+        
+        
+        
+    
+    <link rel="stylesheet" href="gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="transporte.html" />
+    
+    
+    <link rel="prev" href="enlace.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="disclaimer.html">
+            
+                <a href="disclaimer.html">
+            
+                    
+                    Esclarecimento
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="syllabus.html">
+            
+                <a href="syllabus.html">
+            
+                    
+                    Plano de ensino
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="introducao.html">
+            
+                <a href="introducao.html">
+            
+                    
+                    Introdução
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="conceitos.html">
+            
+                <a href="conceitos.html">
+            
+                    
+                    Conceitos básicos
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="fisica.html">
+            
+                <a href="fisica.html">
+            
+                    
+                    Camada física
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="enlace.html">
+            
+                <a href="enlace.html">
+            
+                    
+                    Camada de enlace
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.8" data-path="rede.html">
+            
+                <a href="rede.html">
+            
+                    
+                    Camada de rede
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="transporte.html">
+            
+                <a href="transporte.html">
+            
+                    
+                    Camada de transporte
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="aplicacao.html">
+            
+                <a href="aplicacao.html">
+            
+                    
+                    Camada de aplicação
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="seguranca.html">
+            
+                <a href="seguranca.html">
+            
+                    
+                    Segurança
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="." >Camada de rede</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="camada-de-rede"><strong>Camada de Rede</strong></h1>
+<p>Prosseguindo os estudos, j&#xE1; vimos que cada camada pr&#xF4;ve servi&#xE7;os para a camada superior e utiliza-se dos servi&#xE7;os fornecidos pelas camadas inferiores para enviar os dados de um lado para o outro. A camada de rede &#xE9; respons&#xE1;vel por:</p>
+<ul>
+<li>Endere&#xE7;amento</li>
+<li>Roteamento</li>
+<li>Interconex&#xE3;o</li>
+<li>Encapsulamento</li>
+<li>Fragmenta&#xE7;&#xE3;o</li>
+</ul>
+<p>A camada f&#xED;sica &#xE9; respons&#xE1;vel por transportar <strong>bits</strong>, a camada de enlace transporta quadros (<em>frames</em>) entre os n&#xF3;s (<em>nodes</em>) e a camada de rede transporta <strong>datagramas</strong> entre <em>hosts</em>. Utilizando-se da camada de enlace, agora conseguimos enviar dados entre host que est&#xE3;o separados entre si, mas conectados atrav&#xE9;s de muitos outros dispositivos e tecnologias diferentes no caminho. A preocupa&#xE7;&#xE3;o na camada de enlace &#xE9; a liga&#xE7;&#xE3;o entre os n&#xF3;s, agora na camada de rede, utilizando a conex&#xE3;o entre diversos n&#xF3;s, &#xE9; poss&#xED;vel criarmos caminhos. Na figura abaixo, temos o exemplo da comunica&#xE7;&#xE3;o entre A e B.</p>
+<p><img src="imgs/redes/fig01.png" alt="Rota dos pacotes do ponto A para o ponto B."></p>
+<p>Como observamos na figura, para n&#xF3;s usu&#xE1;rios, o caminho percorrido dos dados &#xE9; transparente quando saem do ponto A ao ponto B. Mas os datagramas podem percorrer diversos caminhos, logo, n&#xE3;o podemos garantir que o caminho ser&#xE1; igual para todos. Os caminhos podem ser definidos de forma est&#xE1;tica ou automaticamente.</p>
+<p>A camada de rede recebe o pacote da camada de transporte, encapsula o pacote em um datagrama da camada de enlace e repassa para camada abaixo. Os n&#xF3;s intermedi&#xE1;rios na comunica&#xE7;&#xE3;o, desencapsulam os frames, os datagramas e analisam os pacotes no n&#xED;vel de rede, para ent&#xE3;o encaminhar os dados para outro ponto, ou enviam o payload para a camada superior continuar o tratamento da informa&#xE7;&#xE3;o.</p>
+<p>&#xC9; comum definirmos e confundirmos a camada de rede com o protocolo <em>Internet Protocol</em> (IP), mas veremos que existem outros protocolos, como ARP, ICMP, IPSec e outros.</p>
+<h2 id="servi&#xE7;os-da-camada-de-rede">Servi&#xE7;os da camada de rede</h2>
+<p>Como j&#xE1; discutimos, cada camada pr&#xF4;ve servi&#xE7;os para a camada superior, e no caso da camada de rede os servi&#xE7;os s&#xE3;o: Empacotamento, Endere&#xE7;amento, Roteamento, Interconex&#xE3;o,  e Fragmenta&#xE7;&#xE3;o.</p>
+<h3 id="empacotamento">Empacotamento</h3>
+<p><strong>Empacotamento</strong> ou <strong>Encapsulamento</strong> &#xE9; considerado por alguns autores a principal tarefa da camada de redes, e consiste no encapsulamento da carga &#xFA;til (<em>payload</em>) em um pacote da camada de rede na origem e o desencapsulamento no destino, n&#xE3;o havendo a utiliza&#xE7;&#xE3;o o <em>payload</em>, nem a altera&#xE7;&#xE3;o do seu conte&#xFA;do.</p>
+<p>A &#xFA;nica altera&#xE7;&#xE3;o poss&#xED;vel &#xE9; a fragmenta&#xE7;&#xE3;o do pacote. Caso o pacote seja fragmentado, a camada de rede &#xE9; a encarregada de aguardar o recebimento de todos, reorganiz&#xE1;-los e entregar para a camada superior.</p>
+<p>O <em>host</em> de origem, recebe os dados da camada de cima, adiciona no cabe&#xE7;alho endere&#xE7;o de origem e destino, e outras informa&#xE7;&#xF5;es (discutidas adiante) e o <em>payload</em>, encapsula e entrega para a camada de enlace.  Nenhum <em>host</em> ou roteador durante o percurso possui permiss&#xE3;o para alterar qualquer campo; apenas acessar os campos para efetuar a compara&#xE7;&#xE3;o do pacote com o endere&#xE7;o de destino, para encaminha-lo ou passar para a camada superior.</p>
+<h3 id="roteamento">Roteamento</h3>
+<p>O <strong>Roteamento</strong> &#xE9; um servi&#xE7;o considerada t&#xE3;o importante quanto o Empacotamento. &#xC9; a tarefa de encontrar a melhor rota entre a origem e o destino, pois como estudamos, existem diversas rotas de diferentes tipos de tecnologias entre a origem e o destino. O roteamento utiliza-se de alguns protocolos de roteamento, que mapea os vizinhos e possui algumas pol&#xED;ticas para manter a lista sempre atualizado.</p>
+<h3 id="encaminhamento">Encaminhamento</h3>
+<p>&#xC9; a a&#xE7;&#xE3;o pr&#xF3;priamente dita que o cada roteador toma baseado na <strong>tabela de roteamento</strong> ou <strong>tabela de encaminhamento</strong>. Quando um datagrama &#xE9; recebido, ele deve encaminhar para a rede (<em>unicast</em>) ou as redes (<em>multicast</em>) as quais ele esta conectado. O roteador acessa o cabe&#xE7;alho para buscar o endere&#xE7;o de destino ou alguma outra informa&#xE7;&#xE3;o, para determinar o interface de sa&#xED;da correspondente na <strong>tabela de roteamento</strong>.</p>
+<h3 id="controle-de-erros">Controle de erros</h3>
+<p>Como o datagrama pode ser fragmentado em cada roteador, a verifica&#xE7;&#xE3;o de erros se torna ineficiente na camada de redes. Mas, existe um <em>checksum</em> do cabe&#xE7;alho, para controle e preven&#xE7;&#xE3;o de erros.</p>
+<h3 id="controle-de-fluxo">Controle de fluxo</h3>
+<p>Inexiste um controle de fluxo na camada de redes. Uma vez que o datagrama est&#xE1; pronto, ele &#xE9; enviado sem preocupa&#xE7;&#xE3;o se o destino ter&#xE1; capacidade de receber. Uma das raz&#xF5;es &#xE9; a simplicidade que esta camada foi projetada. A camada de enlace possui um controle de acesso ao meio, como forma de controle do fluxo tamb&#xE9;m, mas em um n&#xED;vel abaixo, logo &#xE9; um servi&#xE7;o que a camada de rede n&#xE3;o precisa se preocupar.</p>
+<p>Outro motivo, &#xE9; a utiliza&#xE7;&#xE3;o de <em>buffers</em> na camada de aplica&#xE7;&#xE3;o, que n&#xE3;o consomem os dados simultaneamente a sua recep&#xE7;&#xE3;o. Desta forma, o receptor armazena dado suficiente para sua utiliza&#xE7;&#xE3;o posterior.</p>
+<h3 id="controle-de-congestionamento">Controle de congestionamento</h3>
+<p>O controle de congestionamento ocorre quando um n&#xFA;mero muito grande de datagramas fica concentrado em algum ponto. Tal efeito pode ser causado pelo envio elevado de datagramas &#xE0; capacidade da rede ou dos roteadores, ocasionando na perda ou descarte dos datagramas, podendo surtir um efeito de colapso, dependendo da situa&#xE7;&#xE3;o.</p>
+<h3 id="qualidade-de-servi&#xE7;o">Qualidade de Servi&#xE7;o</h3>
+<p>Com os diversos tipos de servi&#xE7;os e m&#xED;dias trocadas, a <strong>qualidade de servi&#xE7;o</strong> passou a ser discutida, especialmente por causa das aplica&#xE7;&#xF5;es de comunica&#xE7;&#xE3;o em tempo real de &#xE1;udio e v&#xED;deo. Para manter a simplicidade da camada de rede, tal funcionalidade &#xE9; na maioria das vezes implementada em camadas superiores.</p>
+<h3 id="seguran&#xE7;a">Seguran&#xE7;a</h3>
+<p>Nunca foi uma preocupa&#xE7;&#xE3;o, pois quando a Internet foi concebida, era utilizada por um pequeno grupo de usu&#xE1;rios, na sua maioria do meio acad&#xEA;mico, e portanto, foi projetada sem funcionalidades para seguran&#xE7;a. No entando, com a dimens&#xE3;o alcan&#xE7;ada atualmente e a sua import&#xE2;ncia, a seguran&#xE7;a &#xE9; um &quot;<em>big deal</em>&quot;. Para isto, na camada de redes, o IPSec foi proposto.</p>
+<h2 id="comuta&#xE7;&#xE3;o">Comuta&#xE7;&#xE3;o</h2>
+<p><strong>Comuta&#xE7;&#xE3;o</strong> &#xE9; uma express&#xE3;o herdada de circuitos, &#xE9; o simples ato de trocar a dire&#xE7;&#xE3;o do sinal el&#xE9;trico, no nosso caso, trocar a dire&#xE7;&#xE3;o dos datagramas. O roteador cria uma liga&#xE7;&#xE3;o entre uma porta de entrada e uma(s) porta(s) de sa&#xED;da(s). Podemos dividir a comuta&#xE7;&#xE3;o em duas abordagens:</p>
+<ul>
+<li>Comuta&#xE7;&#xE3;o de pacotes</li>
+<li>Comuta&#xE7;&#xE3;o de circuitos</li>
+</ul>
+<p>O dispositivo de origem envia uma mensagem que &#xE9; fragmentada em diversos pacotes, e o destino recebe um a um, e aguarda todos os pacotes de uma mesma mensagem para repassar para camada superior.</p>
+<h3 id="comuta&#xE7;&#xE3;o-de-pacotes">Comuta&#xE7;&#xE3;o de pacotes</h3>
+<p><strong>Comuta&#xE7;&#xE3;o de pacotes</strong> &#xE9; um <strong>servi&#xE7;o n&#xE3;o orientado &#xE0; conex&#xE3;o</strong>, e foi a maneira como a camada de rede foi projetada. Desta forma, cada pacote &#xE9; tratado de forma independente, sendo enviado <em>n</em> pacotes, eles podem ou n&#xE3;o percorrer o mesmo caminho. Um pacote ainda pode ser sucedido por outro pacote da mesma mensagem ou uma mensagem diferente.</p>
+<p>Cada pacote &#xE9; analisado atrav&#xE9;s do cabe&#xE7;alho, utilizando os endere&#xE7;os de origem e destino.</p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="enlace.html" class="navigation navigation-prev " aria-label="Previous page: Camada de enlace">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="transporte.html" class="navigation navigation-next " aria-label="Next page: Camada de transporte">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Camada de rede","level":"1.8","depth":1,"next":{"title":"Camada de transporte","level":"1.9","depth":1,"path":"transporte.md","ref":"transporte.md","articles":[]},"previous":{"title":"Camada de enlace","level":"1.7","depth":1,"path":"enlace.md","ref":"enlace.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["mathjax","youtube","alerts"],"pluginsConfig":{"youtube":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"alerts":{},"mathjax":{"forceSVG":false,"version":"2.6-latest"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"rede.md","mtime":"2017-03-02T23:19:08.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-04-05T03:51:23.252Z"},"basePath":".","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="gitbook/gitbook.js"></script>
+    <script src="gitbook/theme.js"></script>
+    
+        
+        <script src="https://cdn.mathjax.org/mathjax/2.6-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-mathjax/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-alerts/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
