@@ -49,7 +49,7 @@ public class BuscaBinaria
             // calcula o ponto do meio
             int meio = ( maior+menor )/2;
             if( arr[meio] > chave ) 
-            { // a chave está no subconjunto inferior
+            { // a chave estáno subconjunto inferior
                 return binary( arr, chave, menor, meio-1 );     
             } else if( arr[meio] < chave ) 
             { // a chave está no subconjunto superior
