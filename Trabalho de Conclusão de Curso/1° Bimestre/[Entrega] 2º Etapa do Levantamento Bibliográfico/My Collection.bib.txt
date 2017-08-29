@@ -1,0 +1,371 @@
+@article{Aguiar2013,
+author = {Aguiar, Janderson Jason Barbosa},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/75-300-1-PB.pdf:pdf},
+title = {{Utiliza{\c{c}}{\~{a}}o da biblioteca recommenderlab do Software R para an{\'{a}}lise comparativa de algoritmos de recomenda{\c{c}}{\~{a}}o}},
+year = {2013}
+}
+@article{Antonio1994,
+author = {Antonio, Fernando and Gomide, Campos and Gudwin, Ricardo Ribeiro},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/RevSBA94.pdf:pdf},
+title = {{Modelagem , Controle , Sistemas E L{\'{o}}gica Fuzzy}},
+volume = {4},
+year = {1994}
+}
+@article{Antonio2016,
+author = {Antonio, Jos{\'{e}} and Pav{\'{i}}a, Estrada and De, Codirector and Aldape, Mario},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/115597.pdf:pdf},
+title = {{MASTER IN INNOVATION AND RESEARCH IN INFORMATICS Metodolog{\'{i}}a para la selecci{\'{o}}n de caracter{\'{i}}sticas usando algoritmos gen{\'{e}}ticos Director de tesis : Dr . Jos{\'{e}} Ram{\'{o}}n Herrero Zaragoza}},
+year = {2016}
+}
+@article{Barbat,
+author = {Barbat, Mauro M and Adamatti, Diana F},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/Desenvolvimento de um jogo s{\'{e}}rio para modelagem, opera{\c{c}}{\~{a}}o e manuten{\c{c}}{\~{a}}o de plantas  industriais.pdf:pdf},
+title = {modelagem , opera{\c{c}}{\~{a}}o e manuten{\c{c}}{\~{a}}o de plantas}
+}
+@article{Cavalcante,
+author = {Cavalcante, Michelle Melo and Lucas, Jo{\~{a}}o and Silva, De Souza},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/10618-39381-1-PB.pdf:pdf},
+pages = {3--19},
+title = {{Proposta de Serious Games aplicado ao ensino de eletricidade b{\'{a}}sica : O Jogo Genius a partir da Plataforma Ardu{\'{i}}no ⇤}}
+}
+@article{Delbem2000,
+author = {Delbem, A C B and Bretas, N G and Carvalho, A De},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/09e41507bf1d02516f000000.pdf:pdf},
+keywords = {de restabelecimento de energia,depois de uma zona,distribution systems,e isolada pelos,elaborado e r{\'{a}}pido {\'{e}},faltosa ter sido identificada,genetic algorithms,graph chain representation,requerido},
+number = {01},
+pages = {55--60},
+title = {{Em Sistemas Radiais De Distribui{\c{c}}{\~{a}}o}},
+volume = {11},
+year = {2000}
+}
+@article{El2003,
+author = {El, Engenharia and Bassanezi, Rodney Carlos and Magnus, Carlos and Filho, Carlsson and Unicamp, Feec},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/Cant{\~{a}}o,L.A.P.pdf:pdf},
+title = {{Programa ¸ c ˜ ao N ˜ ao-Linear com Parˆ ametros Fuzzy : Teoria e Algoritmos Luiza Amalia Pinto Cant ˜ esio dos Santos Junior}},
+year = {2003}
+}
+@article{EspiritoSanto,
+abstract = {With the increasing number of information technology and the rapid spread of it also increased the crimes related to it and it became necessary to keep the information free of business risks and hazards that might damage it, so research on this subject is to seek more knowledge and get to understand the importance of implementing information security in enterprises. So the problem is, why bother with the data security of your company? To solve this problem we resort to consultation of bibliographical references, which we seek through analysis, ideas, suggestions and arguments that help us in this reflection.},
+author = {{Espirito Santo}, Adrielle Fernamda Silva},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Espirito Santo - Unknown - Seguran{\c{c}}a da Informa{\c{c}}{\~{a}}o.pdf:pdf},
+pages = {1--11},
+title = {{Seguran{\c{c}}a da Informa{\c{c}}{\~{a}}o}},
+url = {http://www.ice.edu.br/TNX/encontrocomputacao/artigos-internos/aluno{\_}adrielle{\_}fernanda{\_}seguranca{\_}da{\_}informacao.pdf}
+}
+@article{Faria1999,
+author = {Faria, Gedson and Romero, Roseli Francelin},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/55c3cedc08aeb97567401dca.pdf:pdf},
+journal = {IV Brazilian Conference on Neural Networks},
+pages = {237--242},
+title = {{Explorando o Potencial de Algoritmos de Aprendizado com Refor{\c{c}}o em Rob{\^{o}}s M{\'{o}}veis}},
+year = {1999}
+}
+@article{Fernandez2003,
+author = {Fernandez, Marcial Porto and Pedroza, Aloysio de Castro P. and de Rezende, Jos{\'{e}} Ferreira},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/FPR03c.pdf:pdf},
+journal = {Revista da Sociedade Brasileira de Telecomunica{\c{c}}{\~{o}}es},
+keywords = {diffserv,network provision-,quality of service},
+number = {2},
+pages = {1--15},
+title = {{Implementa{\c{c}}{\~{a}}o de Pol{\'{i}}ticas de Gerenciamento com l{\'{o}}gica Fuzzy e Algoritmo Gen{\'{e}}tico visando {\`{a}} melhoria da Qualidade de Servi{\c{c}}o (QoS)}},
+volume = {18},
+year = {2003}
+}
+@article{Gomide1988,
+author = {Gomide, Fernando A C and Gudwin, Ricardo R and Tanscheit, Ricardo},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/5591377908ae47a3490f584b.pdf:pdf},
+title = {{Conceitos Fundamentais Da Teoria De Conjuntos Fuzzy , L{\'{o}}gica Fuzzy E Aplica{\c{c}}{\~{o}}es}},
+year = {1988}
+}
+@article{Hernandes2004,
+author = {Hernandes, F and Takahashi, MT},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/arq0014.pdf:pdf},
+journal = {Anais do XXXVI Simp{\'{o}}sio Brasileiro de {\ldots}},
+keywords = {- mathematical programming,fuzzy graphs,shortest path problems},
+title = {{Adapta{\c{c}}{\~{a}}o de um algoritmo de caminho m{\'{i}}nimo em grafos com custo nos arcos e restri{\c{c}}{\~{o}}es de tempo fuzzy}},
+url = {http://www.din.uem.br/sbpo/sbpo2004/pdf/arq0014.pdf},
+year = {2004}
+}
+@article{Intelig2004,
+author = {Intelig, Palavras-chave and Artificial, Keywords},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/andre{\_}kishimoto.pdf:pdf},
+journal = {Genesis},
+keywords = {artificial intelligence,computers,consoles,de acordo com o,dicion{\'{a}}rio oxford,electronic games,game industry},
+title = {{Intelig{\^{e}}ncia Artificial em Jogos Eletr{\^{o}}nicos}},
+year = {2004}
+}
+@article{JuanGuillermoLazoLazo2004,
+abstract = {As decis{\~{o}}es econ{\^{o}}micas de investimento, assim como as avalia{\c{c}}{\~{o}}es econ{\^{o}}micas de projetos, s{\~{a}}o afetadas por incertezas econ{\^{o}}micas, incertezas t{\'{e}}cnicas e por flexibilidades gerenciais embutidas em projetos. Flexibilidades gerenciais d{\~{a}}o liberdade ao gerente para tomar decis{\~{o}}es, tais como investir, expandir, parar temporariamente ou abandonar um determinado projeto. Tais flexibilidades possuem valor e s{\'{o}} a teoria de op{\c{c}}{\~{o}}es reais consegue avali{\'{a}}-las. As op{\c{c}}{\~{o}}es reais permitem considerar, al{\'{e}}m das incertezas, a flexibilidade gerencial, tendo por objetivo maximizar o valor da oportunidade de investimento. Para se determinar o valor de uma op{\c{c}}{\~{a}}o real, normalmente s{\~{a}}o utilizados modelos de {\'{a}}rvores binomiais, diferen{\c{c}}as finitas ou t{\'{e}}cnicas de simula{\c{c}}{\~{a}}o Monte Carlo. Entretanto, os m{\'{e}}todos tradicionais de {\'{a}}rvores binomiais e diferen{\c{c}}as finitas s{\~{a}}o impratic{\'{a}}veis na avalia{\c{c}}{\~{a}}o de op{\c{c}}{\~{o}}es com mais de tr{\^{e}}s fatores de incerteza, enquanto que a simula{\c{c}}{\~{a}}o Monte Carlo tem um custo computacional muito elevado devido ao processo iterativo da simula{\c{c}}{\~{a}}o estoc{\'{a}}stica na amostragem de cada vari{\'{a}}vel. O objetivo deste trabalho {\'{e}} pesquisar uma metodologia computacionalmente vi{\'{a}}vel para determinar o valor de op{\c{c}}{\~{o}}es reais sob diversas incertezas t{\'{e}}cnicas e de mercado. Neste contexto, {\'{e}} feita uma investiga{\c{c}}{\~{a}}o multidisciplinar (l{\'{o}}gica fuzzy, computa{\c{c}}{\~{a}}o evolucion{\'{a}}ria, processos estoc{\'{a}}sticos e op{\c{c}}{\~{o}}es reais) em busca de m{\'{e}}todos alternativos que possam reduzir o tempo computacional e assim facilitar as tomadas de decis{\~{a}}o conseq{\"{u}}entes da simula{\c{c}}{\~{a}}o. Para isto, {\'{e}} proposta a uni{\~{a}}o de v{\'{a}}rias t{\'{e}}cnicas: N{\'{u}}meros Fuzzy para representar determinados tipos de incertezas das quais se desconhece o processo estoc{\'{a}}stico que as modela, processos estoc{\'{a}}sticos para representar as demais incertezas e a simula{\c{c}}{\~{a}}o Monte Carlo para obter uma boa aproxima{\c{c}}{\~{a}}o do valor da op{\c{c}}{\~{a}}o real. Al{\'{e}}m disso, aplicase um algoritmo gen{\'{e}}tico em conjunto com a simula{\c{c}}{\~{a}}o Monte Carlo para aproximar uma regra de decis{\~{a}}o {\'{o}}tima e determinar o valor da op{\c{c}}{\~{a}}o real no caso de se ter v{\'{a}}rias op{\c{c}}{\~{o}}es de investimento em um projeto. A regra ajuda na decis{\~{a}}o entre o investimento imediato em uma das op{\c{c}}{\~{o}}es ou a espera por melhores condi{\c{c}}{\~{o}}es, as quais dependem do estado das incertezas consideradas. O modelo proposto foi avaliado em problemas de op{\c{c}}{\~{a}}o de expans{\~{a}}o e de op{\c{c}}{\~{a}}o de investimento em informa{\c{c}}{\~{a}}o, aplicados na {\'{a}}rea de explora{\c{c}}{\~{a}}o e produ{\c{c}}{\~{a}}o de petr{\'{o}}leo, obtendo os mesmos resultados que as t{\'{e}}cnicas convencionais com uma redu{\c{c}}{\~{a}}o expressiva do custo computacional. A principal contribui{\c{c}}{\~{a}}o deste trabalho {\'{e}} a concep{\c{c}}{\~{a}}o de uma nova metodologia para a determina{\c{c}}{\~{a}}o do valor de op{\c{c}}{\~{o}}es reais na presen{\c{c}}a de incertezas t{\'{e}}cnicas e de mercado, que oferece vantagens em rela{\c{c}}{\~{a}}o aos m{\'{e}}todos convencionais. Os resultados obtidos comprovam que o uso de n{\'{u}}meros fuzzy para representar incertezas das quais se desconhece o processo estoc{\'{a}}stico que as modela, reduz significativamente o tempo computacional. Al{\'{e}}m disso, a metodologia demonstra que a t{\'{e}}cnica de algoritmos gen{\'{e}}ticos {\'{e}} adequada para obter uma regra de decis{\~{a}}o {\'{o}}tima, com uma boa aproxima{\c{c}}{\~{a}}o do valor da op{\c{c}}{\~{a}}o real, quando s{\~{a}}o consideradas v{\'{a}}rias op{\c{c}}{\~{o}}es de investimento.},
+author = {{Juan Guillermo Lazo Lazo}},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/5656{\_}1.PDF:PDF},
+keywords = {Algoritmos Gen{\'{e}}ticos,Incertezas T{\'{e}}cnicas,N{\'{u}}meros Fuzzy,Op{\c{c}}{\~{o}}es Reais,Processos Estoc{\'{a}}sticos,Simula{\c{c}}{\~{a}}o Monte Carlo,e Econ{\^{o}}micas},
+pages = {190},
+title = {{Determina{\c{c}}{\~{a}}o do Valor de Op{\c{c}}{\~{o}}es Reais por Simula{\c{c}}{\~{a}}o Monte Carlo com Aproxima{\c{c}}{\~{a}}o por N{\'{u}}meros Fuzzy e Algoritmos Gen{\'{e}}ticos}},
+year = {2004}
+}
+@article{Machado2010,
+author = {Machado, Alex F V and Clua, Esteban W and Zadrozny, Bianca and Fluminense, Universidade Federal},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/A Method for Generating Emergent Behaviors using Machine.pdf:pdf},
+journal = {Machine Learning},
+keywords = {emergent systems,machine learning},
+pages = {17--23},
+title = {{A Method for Generating Emergent Behaviors using Machine Learning to Strategy Games}},
+year = {2010}
+}
+@article{MassatoKakihata2015,
+author = {{Massato Kakihata}, Eduardo and {Molina Sapia}, Helton and {Toshiaki Oikawa}, Ronaldo and {Roberto Pereira}, Danillo and {Assis da Silva}, Francisco},
+doi = {10.5747/ce.2015.v07.n3.e131},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/1446-5955-2-PB.pdf:pdf},
+issn = {21788332},
+journal = {Colloquium Exactarum},
+keywords = {baseados em,de detec{\c{c}}{\~{a}}o de intrus{\~{a}}o},
+number = {3},
+pages = {84--91},
+title = {{Seguran{\c{c}}a Em Redes De Computadores Usando Sistemas De Detec{\c{c}}{\~{a}}o De Intrus{\~{a}}o Baseados Em Fluxos}},
+url = {http://revistas.unoeste.br/revistas/ojs/index.php/ce/article/view/1446/1479},
+volume = {7},
+year = {2015}
+}
+@article{Moraes2014,
+author = {Moraes, Ronei Marcos De},
+doi = {10.3395/reciis.v8i4.844.pt},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/438-1585-1-SM.pdf:pdf},
+number = {4},
+pages = {525--539},
+title = {{Intelig{\^{e}}ncia artificial e sua aplica{\c{c}}{\~{a}}o em serious games para sa{\'{u}}de Artificial intelligence and its application in serious games for health La inteligencia artificial y su aplicaci{\'{o}}n en serious games para la salud}},
+volume = {8},
+year = {2014}
+}
+@article{Morais2009,
+abstract = {Increasingly, decision-making wins in games as important ally in the construction of knowledge. This article aims to present a bibliography on the decision-making aspect of the game called Serious Games. With a special focus towards the Serious Games field of Health evaluating the types of Artificial Intelligence (AI) implemented and its main characteristics. Palavras-chave: jogos s{\'{e}}rios, tomada de decis{\~{a}}o, jogos na sa{\'{u}}de, intelig{\^{e}}ncia artificial.},
+author = {Morais, Alana M De and Sousa, Azu{\'{i}}la S and Machado, Liliane S and Moraes, Ronei M},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/ERMAC095.pdf:pdf},
+journal = {Anais do Encontro Regional de Matem{\'{a}}tica Aplicada e Computacional},
+number = {Jo{\~{a}}o Pessoa},
+pages = {1--11},
+title = {{Tomada de Decis{\~{a}}o aplicada {\`{a}} Intelig{\^{e}}ncia Artificial em Serious Games voltados para Sa{\'{u}}de}},
+year = {2009}
+}
+@article{Ottoni2015,
+author = {Ottoni, Guilherme Porto},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/monopoli10012751.pdf:pdf},
+title = {{Aplica{\c{c}}{\~{a}}o Da L{\'{o}}gica Fuzzy Em Algoritmos De Layout : O Caso Do Restaurante Universit{\'{a}}rio Aplica{\c{c}}{\~{a}}o Da L{\'{o}}gica Fuzzy Em Algoritmos De Layout : O Caso Do Restaurante Universit{\'{a}}rio}},
+year = {2015}
+}
+@article{Paulo2016,
+author = {Paulo, S{\~{a}}o},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/anarociodefesa.pdf:pdf},
+keywords = {abntlatexabntexabntex2qualifica{\c{c}}{\~{a}}o de mestradodiss},
+title = {{Um estudo da aplica{\c{c}}{\~{a}}o de t{\'{e}}cnicas de intelig{\^{e}}ncia computacional e de aprendizado de m{\'{a}}quina em minera{\c{c}}{\~{a}}o de processos de neg{\'{o}}cio}},
+year = {2016}
+}
+@article{Pereira2007,
+abstract = {Entendendo Scrum para Gerenciar Projetos de Forma {\'{A}}gil},
+author = {Pereira, Paulo and Torre{\~{a}}o, P and Mar{\c{c}}al, As},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/EntendendoScrumparaGerenciarProjetosdeFormaAgil.pdf:pdf},
+journal = {Mundo PM},
+pages = {1--11},
+title = {{Entendendo Scrum para Gerenciar Projetos de Forma {\'{A}}gil}},
+url = {http://www.siq.com.br/DOCS/EntendendoScrumparaGerenciarProjetosdeFormaAgil.pdf},
+year = {2007}
+}
+@article{Pessini2015,
+author = {Pessini, Adriano and Kemczinski, Avanilde},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/6994-18944-1-SM.pdf:pdf},
+pages = {71--80},
+title = {{Uma Ferramenta de Autoria para o desenvolvimento de Jogos S{\'{e}}rios do G{\^{e}}nero RPG}},
+year = {2015}
+}
+@article{Pessini2014,
+author = {Pessini, Adriano and de Oliveira, Helder Cognaco and Hounsell, Marcelo Da Silva and Kemczinski, Avanilde},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/tise2014{\_}submission{\_}105.pdf:pdf},
+journal = {XIX Confer{\^{e}}ncia Internacional sobre Inform{\'{a}}tica na Educa{\c{c}}{\~{a}}o (TISE)},
+keywords = {educa{\c{c}}{\~{a}}o,ferramentas de autoria,inform{\'{a}}tica,jogos s{\'{e}}rios,mapeamento sistem{\'{a}}tico},
+pages = {537--541},
+title = {{O uso de Jogos S{\'{e}}rios na Educa{\c{c}}{\~{a}}o em Inform{\'{a}}tica: um Mapeamento Sistem{\'{a}}tico}},
+volume = {10},
+year = {2014}
+}
+@article{Pinheiro2009,
+author = {Pinheiro, Eude and Kubo, Camila Da Costa and Rangel, Marcos Da Silva and Arcari, Thiago De Almeida and Dias, Cleber Gustavo},
+doi = {10.5585/exacta.v7i1.1531},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/81012760009.pdf:pdf},
+issn = {1678-5428},
+journal = {Pinheiro, E., Kubo, C. D. C., Rangel, M. D. S., Arcari, T. D. A., {\&} Dias, C. G. (2009). Navega{\c{c}}{\~{a}}o aut{\^{o}}noma de um agente inteligente: um estudo comparativo usando L{\'{o}}gica Fuzzy e Algoritmo de Busca A*. ExactPinheiro, E., Kubo, C. D. C., Rangel, M. D. S., Ar},
+number = {1},
+pages = {87--98},
+title = {{Navega{\c{c}}{\~{a}}o aut{\^{o}}noma de um agente inteligente: um estudo comparativo usando L{\'{o}}gica Fuzzy e Algoritmo de Busca A*}},
+volume = {7},
+year = {2009}
+}
+@article{PIONTEKOWSKI2014,
+author = {PIONTEKOWSKI, V.J.},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/2015{\_}ManuelRodrigoUrbanoAbadia.pdf:pdf},
+isbn = {1124895515},
+journal = {Departamento De Engenharia Florestal},
+pages = {88},
+title = {{Faculdade De Tecnologia Universidade De Bras{\'{i}}lia}},
+url = {http://www.pgea.unb.br/{~}lasp/research/DEFESA{\_}VALERIO{\_}AYMORE{\_}MARTINS{\_}DM-500{\_}2012.pdf},
+year = {2014}
+}
+@article{Pontes2010,
+author = {Pontes, Herleson Paiva},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/Pr{\'{a}}ticas Docentes - Artigo.pdf:pdf},
+title = {{Jogos Virtuais como Estrat{\'{e}}gia Facilitadora no Processo de Aprendizagem em Programa{\c{c}}{\~{a}}o de Computadores}},
+year = {2010}
+}
+@article{Rodrigues2011,
+author = {Rodrigues, Herbet Ferreira},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/herbet-ferreira-rodrigues-dissertacao-de-mestrado-2011.pdf:pdf},
+pages = {93},
+title = {{Aplicando Sistemas H{\'{a}}pticos em Serious Games : Um Jogo para a Educa{\c{c}}{\~{a}}o em Higiene Bucal}},
+url = {http://bdtd.biblioteca.ufpb.br/tde{\_}arquivos/16/TDE-2011-04-27T102305Z-981/Publico/parte1.pdf},
+year = {2011}
+}
+@article{Rothenberg2011,
+abstract = {H{\'{a}} algum tempo observa-se o surgimento da necessidade de maior abertura e flexibilidade dos equipamentos de rede, especialmente com o prop{\'{o}}sito de pesquisa e inova{\c{c}}{\~{a}}o. Os roteadores atuais implementam uma arquitetura composta por uma camada de software fechada, que {\'{e}} executada em um hardware propriet{\'{a}}rio. Esse modelo resulta em solu{\c{c}}{\~{o}}es de alto custo, dificulta a inser{\c{c}}{\~{a}}o de novas funcionalidades e inviabiliza a experimenta{\c{c}}{\~{a}}o de novas ideias. Com o avan{\c{c}}o da padroniza{\c{c}}{\~{a}}o do protocolo OpenFlow para programar o plano de encaminhamento dos equipamentos de redes de pacotes, o conceito de redes programadas por software traz um novo paradigma de inova{\c{c}}{\~{a}}o cujo potencial disruptivo assemelha-se ao da introdu{\c{c}}{\~{a}}o de sistemas operacionais em computadores e, mais recentemente, em dispositivos m{\'{o}}veis. Este artigo introduz os princ{\'{i}}pios da tecnologia OpenFlow e apresenta a arquitetura RouteFlow como exemplo de inova{\c{c}}{\~{a}}o para a fun{\c{c}}{\~{a}}o de roteamento em um ambiente aberto (open source), executado sobre hardware comercial (commodity).},
+author = {Rothenberg, Christian Esteve and Nascimento, Marcelo Ribeiro and Salvador, Marcos Rog{\'{e}}rio and Magalh{\~{a}}es, Maur{\'{i}}cio Ferreira},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/AppData/Local/Mendeley Ltd/Mendeley Desktop/Downloaded/OpenFlow{\_}e{\_}redes{\_}definidas{\_}por{\_}software{\_}um{\_}novo{\_}paradigma.pdf:pdf},
+journal = {Cadernos CPqD Tecnologia},
+keywords = {Encaminhamento,Free Software,Packet networks,Redes de pacotes,Roteamento,Routing,Software livre,Switching,Virtualization,Virtualiza{\c{c}}{\~{a}}o},
+mendeley-tags = {Encaminhamento,Redes de pacotes,Roteamento,Software livre,Virtualiza{\c{c}}{\~{a}}o},
+number = {1},
+pages = {65--75},
+title = {{OpenFlow e redes definidas por software: um novo paradigma de controle e inova{\c{c}}{\~{a}}o em redes de pacotes}},
+url = {https://www.researchgate.net/publication/266292305{\_}OpenFlow{\_}e{\_}redes{\_}definidas{\_}por{\_}software{\_}um{\_}novo{\_}paradigma{\_}de{\_}controle{\_}e{\_}inovacao{\_}em{\_}redes{\_}de{\_}pacotes},
+volume = {7},
+year = {2011}
+}
+@article{Santos2015,
+abstract = {SANTOS, G. B. Aplica{\c{c}}{\~{a}}o de t{\'{e}}cnicas da teoria das m{\'{u}}ltiplas intelig{\^{e}}ncias no$\backslash$r$\backslash$nensino de algoritmos e programa{\c{c}}{\~{a}}o. 2014. 93f. Trabalho de Conclus{\~{a}}o de Curso (Gradua{\c{c}}{\~{a}}o em Computa{\c{c}}{\~{a}}o)- Universidade Estadual da Para{\'{i}}ba, Campina Grande, 2014.},
+author = {Santos, Giancarlo Bruno},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/PDF - Giancarlo Bruno Santos.pdf:pdf},
+keywords = {Dificuldades no ensino,Ensino em algoritmos e programa{\c{c}}{\~{a}}o,Teoria das m{\'{u}}ltiplas intelig{\^{e}}ncias},
+title = {{Aplica{\c{c}}{\~{a}}o de t{\'{e}}cnicas da teoria das m{\'{u}}ltiplas intelig{\^{e}}ncias no ensino de algoritmos e programa{\c{c}}{\~{a}}o}},
+url = {http://dspace.bc.uepb.edu.br:8080/xmlui/handle/123456789/7089},
+year = {2015}
+}
+@article{Santos;2006,
+abstract = {Este artigo tem o objetivo de apresentar a import{\^{a}}ncia de um bom ensino de fundamentos de algoritmos e programa{\c{c}}{\~{a}}o em cursos de gradua{\c{c}}{\~{a}}o em Computa{\c{c}}{\~{a}}o e Inform{\'{a}}tica. Para isso, ser{\~{a}}o listados alguns problemas de ensino de tais conte{\'{u}}dos, juntamente com algumas estrat{\'{e}}gias pesquisadas na literatura para tentar san{\'{a}}-los. Dessa forma, tenta deixar uma contribui{\c{c}}{\~{a}}o {\`{a}} literatura e aos docentes da {\'{a}}rea.},
+author = {dos Santos;, Rodrigo Pereira and Costa, Heitor Augustus Xavier},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/121-214-1-SM.pdf:pdf},
+issn = {1982-3363},
+journal = {INFOCOMP Journal of Computer Science},
+keywords = {Algoritmos e Estruturas de Dados,Metodologias de Ensino de Computa{\c{c}}{\~{a}}o,Programa{\c{c}}{\~{a}}o},
+number = {1},
+pages = {41--50},
+title = {{An{\'{a}}lise de Metodologias e Ambientes de Ensino para Algoritmos, Estruturas de Dados e Programa{\c{c}}{\~{a}}o aos iniciantes em Computa{\c{c}}{\~{a}}o e Inform{\'{a}}tica}},
+url = {http://professores.dcc.ufla.br/ojs/index.php/INFOCOMP/article/view/121},
+volume = {5},
+year = {2006}
+}
+@article{Sayao2001,
+abstract = {Analisa a import{\^{a}}ncia dos modelos enquanto recurso metodol{\'{o}}gico e instrumento de abstra{\c{c}}{\~{a}}o destinado {\`{a}} aquisi{\c{c}}{\~{a}}o de novos conhecimentos, representa{\c{c}}{\~{a}}o e compreens{\~{a}}o da realidade, especialmente no contexto das {\'{a}}reas cujo interesse s{\~{a}}o os fen{\^{o}}menos relacionados {\`{a}} informa{\c{c}}{\~{a}}o, como a inform{\'{a}}tica e a ci{\^{e}}ncia da informa{\c{c}}{\~{a}}o. Examina, na literatura sobre modelos e modelagem, a natureza, caracter{\'{i}}sticas b{\'{a}}sicas, fun{\c{c}}{\~{o}}es e principais tipos de modelos. Analisa a adequa{\c{c}}{\~{a}}o dos instrumentos de modelagem ao desenvolvimento de sistemas de informa{\c{c}}{\~{a}}o, considerando todo o quadro perceptivo dos usu{\'{a}}rios e enfatizando a aplica{\c{c}}{\~{a}}o de modelos aos sistemas de recupera{\c{c}}{\~{a}}o de informa{\c{c}}{\~{a}}o, principalmente aqueles que privilegiam aspectos cognitivos. Conclui que mais pesquisas sobre a representa{\c{c}}{\~{a}}o de como as pessoas se posicionam diante da informa{\c{c}}{\~{a}}o s{\~{a}}o extremamente necess{\'{a}}rias para a concep{\c{c}}{\~{a}}o de sistemas de informa{\c{c}}{\~{a}}o que preencham as necessidades de seus usu{\'{a}}rios.},
+author = {Say{\~{a}}o, Lu{\'{i}}s Fernando},
+doi = {10.1590/S0100-19652001000100010},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/a10v30n1.pdf:pdf},
+issn = {0100-1965},
+journal = {Ci{\^{e}}ncia da Informa{\c{c}}{\~{a}}o},
+number = {1},
+pages = {82--91},
+title = {{Modelos te{\'{o}}ricos em ci{\^{e}}ncia da informa{\c{c}}{\~{a}}o - abstra{\c{c}}{\~{a}}o e m{\'{e}}todo cient{\'{i}}fico}},
+url = {http://www.scielo.br/pdf/{\%}0D/ci/v30n1/a10v30n1.pdf},
+volume = {30},
+year = {2001}
+}
+@article{Scaico2011,
+author = {Scaico, Pasqueline Dantas and Marques, Diego Lopes and Azev{\^{e}}do, Max Andr{\'{e}} De and Silva, C{\'{a}}ssia and Vieira, Sinval and Neto, Mendes},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/10{\_}95016{\_}1.pdf:pdf},
+journal = {Simposio Brasileiro de Informatica na Educacao},
+pages = {1868--1872},
+title = {{Combinando Divers{\~{a}}o e Educa{\c{c}}{\~{a}}o : Castelo dos Enigmas , um Jogo S{\'{e}}rio para o Ensino de Algoritmos}},
+year = {2011}
+}
+@article{Sette2011,
+author = {Sette, Jo{\~{a}}o Paulo Fechine},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/arquivo6833{\_}1.pdf:pdf},
+title = {{Concept Backlog : Mecanismo Para Automatizar a Integra{\c{c}}nao Entre a Concep{\c{c}}ao E a Produ{\c{c}}ao De Jogos}},
+volume = {0},
+year = {2011}
+}
+@article{Tanscheit2012,
+abstract = {logica fuzzy},
+author = {Tanscheit, Ricardo},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/ICA-Sistemas Fuzzy.pdf:pdf},
+journal = {LN Sistemas - DEE-PUC-Rio},
+keywords = {fuzzy},
+pages = {113--134},
+title = {{Sistemas Fuzzy}},
+url = {http://www2.ica.ele.puc-rio.br/Downloads/41/LN-Sistemas Fuzzy.pdf},
+volume = {113},
+year = {2012}
+}
+@article{Tatila2015,
+abstract = {In this paper an approach to support Sprint Planning in Scrum projects is discussed. This approach allows the automatic determination of the optimal set of tasks for a given sprint, as well as its execution flow, considering the a priori information concerning the current state of the project, tasks's difficulty and importance, and the relation between tasks. The proposed solution is based on the representation of the project decision space, defined by this information, as workflow models. To evaluate the approach, a prototype has been developed and is being assessed in the context of the Cornea Notification and Collecting Information System (Sincap) project. The results suggest that the use of the approach provides greater determinism for the sprint planing process, casies the viewing and evaluation of project scenarios and decreases planning time.},
+author = {T{\'{a}}tila, Hanna and Thanner, De Sousa and Santos, Paulo S and Rodrigo, Jr and Mateus, F Calhau and Costa, Barcellos},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/040.pdf:pdf},
+keywords = {Gerenciamento de Workflow,Otimizaz{\c{c}}{\~{a}}o da Ordem de Processos,Re-sequenciamento,Scrum,process order optimization,resequencing,scrum,work-},
+mendeley-tags = {Gerenciamento de Workflow,Otimizaz{\c{c}}{\~{a}}o da Ordem de Processos,Re-sequenciamento,Scrum},
+pages = {291--298},
+title = {{Apoio Automatizado ao Planejamento de Sprints em Projetos Scrum Alternative Title : Automated Support for Scrum Projects Sprint Planning}},
+year = {2015}
+}
+@article{Universit2015,
+author = {Universit, Centro and Univates, R I O and Sistemas, Curso D E and Lajeado, Scheunemann},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/2015FabricioScheunemann.pdf:pdf},
+title = {{Minera{\c{c}}{\~{a}}o de dados para descoberta de conhecimento na {\'{a}}rea de oncologia}},
+year = {2015}
+}
+@article{VanderSpoel2015,
+abstract = {Reduced insulin/insulin-like growth factor 1 (IGF-1) signaling has been associated with longevity in various model organisms. However, the role of insulin/IGF-1 signaling in human survival remains controversial. The aim of this study was to test whether circulating IGF-1 axis parameters associate with old age survival and functional status in nonagenarians from the Leiden Longevity Study. This study examined 858 Dutch nonagenarian (males≥89 years; females≥91 years) siblings from 409 families, without selection on health or demographic characteristics. Nonagenarians were divided over sex-specific strata according to their levels of IGF-1, IGF binding protein 3 and IGF-1/IGFBP3 molar ratio. We found that lower IGF-1/IGFBP3 ratios were associated with improved survival: nonagenarians in the quartile of the lowest ratio had a lower estimated hazard ratio (95{\%} confidence interval) of 0.73 (0.59 – 0.91) compared to the quartile with the highest ratio (ptrend=0.002). Functional status was assessed by (Instrumental) Activities of Daily Living ((I)ADL) scales. Compared to those in the quartile with the highest IGF-1/IGFBP3 ratio, nonagenarians in the lowest quartile had higher scores for ADL (ptrend=0.001) and IADL (ptrend=0.003). These findings suggest that IGF-1 axis parameters are associated with increased old age survival and better functional status in nonagenarians from the Leiden Longevity Study.},
+archivePrefix = {arXiv},
+arxivId = {arXiv:1011.1669v3},
+author = {van der Spoel, Evie and Rozing, Maarten P. and Houwing-Duistermaat, Jeanine J. and {Eline Slagboom}, P. and Beekman, Marian and de Craen, Anton J M and Westendorp, Rudi G J and van Heemst, Diana},
+doi = {10.1017/CBO9781107415324.004},
+eprint = {arXiv:1011.1669v3},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/000434651-Texto+Completo-0.pdf:pdf},
+isbn = {9788578110796},
+issn = {19454589},
+journal = {Aging},
+keywords = {Familial longevity,Functional status,Human,IGF-1 axis,Survival},
+number = {11},
+pages = {956--963},
+pmid = {25246403},
+title = {{Association analysis of insulin-like growth factor-1 axis parameters with survival and functional status in nonagenarians of the Leiden Longevity Study}},
+volume = {7},
+year = {2015}
+}
+@article{Vargas,
+author = {Vargas, R De},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/240.pdf:pdf},
+journal = {Optimization},
+pages = {486--492},
+title = {{Uma Nova Forma de Calcular o Centro dos Clusters no Algoritmo Fuzzy C-Means ˜ o Introduc ¸ a O algoritmo fuzzy c-means}}
+}
+@article{Verga2009,
+author = {Verga, Juliana and El, Faculdade De Engenharia},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/55226.pdf:pdf},
+keywords = {fuzzy mathematical program-,fuzzy multicommodity flow,fuzzy numbers},
+pages = {3053--3064},
+title = {{Algoritmo para a Resolu{\c{c}}{\~{a}}o do Problema de Fluxo Multiproduto Fuzzy}},
+year = {2009}
+}
+@article{Yonamine2002,
+author = {Yonamine, Frank Sussumu and Specia, Lucia and de Carvalho, Veronica Oliveira and Nicoletti, Maria do Carmo},
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/RT{\_}Fuzzy{\_}Cmeans{\_}Final.PDF:PDF},
+pages = {20},
+title = {{Aprendizado n{\~{a}}o supervisionado em dom{\'{i}}nios fuzzy – algoritmo fuzzy c -means}},
+year = {2002}
+}
+@article{,
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/Monografia Weslane Almeida - BSI.pdf:pdf},
+title = {{Utiliza{\c{c}}{\~{a}}o de algoritmos gen{\'{e}}ticos para montagem de hor{\'{a}}rios acad{\^{e}}micos com foco na blocagem de hor{\'{a}}rios}},
+year = {2015}
+}
+@article{,
+file = {:C$\backslash$:/Users/Jos{\'{e}} Ricardo/Desktop/TCC/80-264-1-PB.pdf:pdf},
+pages = {15--20},
+title = {{Juices, algoritmos gen{\'{e}}ticos, Ansys Multiphysics, Flotran, M{\'{e}}todo num{\'{e}}rico, viscosidade.}},
+volume = {5},
+year = {2013}
+}
