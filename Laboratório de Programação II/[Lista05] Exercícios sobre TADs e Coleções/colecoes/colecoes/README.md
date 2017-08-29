@@ -17,9 +17,10 @@ empandir aumentando o tamanho da lista.
 
 LOG do trabalho realizado por José Ricardo e Gabriel Praxedes
 
-**INCOMPLETO**
+[INCOMPLETO]()
 
-### |------------------[6/8]------------------|
+
+### |---------------- [6/8]----------------------|
 - [x] Exercício1
 - [X] Exercício
 - [X] Exercício3
