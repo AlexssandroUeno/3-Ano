@@ -1,8 +1,9 @@
 README.TXT
 doc/
+__MACOSX/
+_MACOSX/
 *.ctxt
 *.bluej
 *.class
 *.DS_Store
-__MACOSX/
-_MACOSX/
+
