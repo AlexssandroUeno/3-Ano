@@ -1,6 +1,7 @@
 |TITULO DO PROJETO|OBJETIVO DO PROJETO|VERSÃO ou DATA|COMO INICIAR O PROJETO|AUTORES|
-|-----------------|--------------------|-|-|-|-|
+|-----------------|--------------------|-|-|-|
 |Distância de Hamming|Achar todas as possíveis distancias de Hamming até 6 bits.|25/08/2017|Abrir projeto no bluej|*Gabriel Praxedes*, *José Ricardo*, *Matheus Fávaro*|
+
 
 # Atividade04: Distância de Hamming
 
